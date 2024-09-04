@@ -9,4 +9,4 @@ def problem_11726(num):
     
 print(problem_11726(2)) 
 print(problem_11726(6)) 
-print(problem_11726(12)) 
+print(problem_11726(12))
